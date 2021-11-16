@@ -1,0 +1,6 @@
+numpy==1.18.5
+dgl==0.5.1
+torch==1.6.0
+gensim==3.8.3
+rouge==1.0.0
+spacy==2.3.2
