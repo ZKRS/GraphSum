@@ -4,6 +4,9 @@ checkpoints/*
 cache/*
 save/*
 log/*
-
+.idea/*
 # file
 *.pyc
+yes
+yes.pub
+.idea
