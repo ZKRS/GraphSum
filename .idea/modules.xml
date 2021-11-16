@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GraphSum.iml" filepath="$PROJECT_DIR$/.idea/GraphSum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../HeterSumGraph-master/.idea/HeterSumGraph-master.iml" filepath="$PROJECT_DIR$/../HeterSumGraph-master/.idea/HeterSumGraph-master.iml" />
-    </modules>
-  </component>
-</project>
